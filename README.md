@@ -2,6 +2,7 @@
 ## 數位系統設計實習 期末 Project
 
 [Watch the demo on YouTube](https://www.youtube.com/watch?v=8xgZvJDDkOo)
+[The reference game gemo on Youtube](https://youtu.be/lzaxPjppjxw)
 
 ### How to play?
 <img src="/image/image2.png" width="200" align="right">
