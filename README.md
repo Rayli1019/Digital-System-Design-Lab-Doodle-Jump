@@ -1,1 +1,2 @@
-# Stair-Jump-Verilog-
+# Stair-Jump-Verilog (Doodle Jump)
+
